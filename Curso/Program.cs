@@ -7,18 +7,14 @@ namespace PrimeiroProjeto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite um numero: ");
-            double x = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            int senha = int.Parse(Console.ReadLine());
 
-            while (x >= 0.0)
+            while (senha != 2002)
             {
-                double raiz = Math.Sqrt(x);
-                Console.WriteLine(raiz.ToString("F3", CultureInfo.InvariantCulture));
-                Console.WriteLine("Digite um numero: ");
-                x = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                Console.WriteLine("Senha Invalida");
+                senha = int.Parse(Console.ReadLine());
             }
-             Console.WriteLine("Numero negativo!");
-
+            Console.WriteLine("Acesso Permitido!");
         }
     }
 }
