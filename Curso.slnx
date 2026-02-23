@@ -1,3 +1,7 @@
 <Solution>
-  <Project Path="Execicio 3 de Repeticao/Execicio 3 de Repeticao.csproj" />
+<<<<<<<<< Temporary merge branch 1
+  <Project Path="Execicio 1 de Repetiçao/Execicio 1 de Repetiçao.csproj" />
+=========
+  <Project Path="Execicio 2 de Repeticao/Execicio 2 de Repeticao.csproj" />
+>>>>>>>>> Temporary merge branch 2
 </Solution>
