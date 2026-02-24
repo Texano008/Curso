@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio Entrada de dados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccfaa1832dc7e69b872ab53d30de2a4427e9428a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d8714dd85fa58cfc1ddb7d3ac6e50b1de31cd72")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercicio Entrada de dados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercicio Entrada de dados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
